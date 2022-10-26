@@ -34,13 +34,13 @@ And this command will fulfill the all necessity of this project, which your syst
 3) Now you need a server to respond to your requests for that reason we have uvicorn. Which have already been installed in our system.  So run this command on your terminal.
 > uvicorn main:app --reload 
 
--[uvicorn_output](uvicorn_running.jpeg)
+![uvicorn_output](uvicorn_running.jpeg)
 
 4) In this above picture you can see you will get a link to the local host where our webpage gets hosted. ***ctrl+left_click_mouse*** will take you to their. 
 
 5) you can edit the URL from http://127.0.0.1:8000/ to http://127.0.0.1:8000/docs. And it will redirect you to the Swagger UI. where you can see all your routes and endpoints. In batter graphics
 
-[Swagger UI](swagger_output.jpeg)
+![Swagger UI](swagger_output.jpeg)
 
 
 
